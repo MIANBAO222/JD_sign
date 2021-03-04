@@ -30,7 +30,7 @@
 
 * github 授权登录[Server酱](http://sc.ftqq.com/3.version)官网
 * 在`发送消息`拷贝SCKEY
-
+## 修改api使用新版server酱
 
 
 ## 效果截图
